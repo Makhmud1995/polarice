@@ -1,6 +1,7 @@
 import React from "react";
 import Content from "./components/home/content";
 import Content2 from "./components/home/content2";
+import Content3 from "./components/home/content3";
 import Navbar from "./components/home/navbar";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
 <Navbar/>
 <Content/>
 <Content2/>
+<Content3/>
     </div>
   );
 }
